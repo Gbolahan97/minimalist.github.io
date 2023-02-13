@@ -84,7 +84,7 @@ section .home{
     height: 88vh;
     align-items: center;
     justify-content: center;
-    background: url(img1.JPG) no-repeat;
+    background: url(./img1.JPG) no-repeat;
     background-size: cover;
     background-position: center;
 
