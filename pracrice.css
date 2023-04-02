@@ -224,6 +224,7 @@ section .home{
 
 .contact .image img{
     width:100%;
+    height: 50%;
     padding:2rem;
 }
 
